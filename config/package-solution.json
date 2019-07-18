@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "lab-sp-fx-client-side-solution",
+    "id": "cc2bfdd4-36aa-4d4a-b5bb-1063f644b5be",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/lab-sp-fx.sppkg"
+  }
+}
