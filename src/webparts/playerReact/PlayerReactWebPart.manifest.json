@@ -1,0 +1,22 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "f4b60b39-c339-490b-a298-d73c8939033a",
+  "alias": "PlayerReactWebPart",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "title": { "default": "player_react" },
+    "description": { "default": "player_react description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "player_react",
+      "url": "http://squinotix/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4?csf=1&e=cCR7kM"
+    }
+  }]
+}

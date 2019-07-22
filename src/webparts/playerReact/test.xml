@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="http://squinotix/portail/_api/" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+    <id>24d3b77c-eecf-4d0b-892a-0b6c3d0ea851</id>
+    <title />
+    <updated>2019-07-22T12:13:52Z</updated>
+    <entry>
+        <id>http://squinotix/portail/_api/Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_ Utiliser un POLYCOM CX - Formation - 01 - Découverte du téléphone CX.mp4')</id>
+        <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/Author" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/CheckedOutByUser" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/EffectiveInformationRightsManagementSettings" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/InformationRightsManagementSettings" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/ListItemAllFields" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/LockedByUser" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/ModifiedBy" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/VersionEvents" type="application/atom+xml;type=feed" title="VersionEvents" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/VersionEvents" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/SKYPE_%20Utiliser%20un%20POLYCOM%20CX%20-%20Formation%20-%2001%20-%20D%C3%A9couverte%20du%20t%C3%A9l%C3%A9phone%20CX.mp4')/Versions" />
+        <title />
+        <updated>2019-07-22T12:13:52Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CheckInComment></d:CheckInComment>
+                <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+                <d:ContentTag>{53ACFC99-BCB8-4596-ABA4-05B75CE178CF},2,2</d:ContentTag>
+                <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+                <d:ETag>"{53ACFC99-BCB8-4596-ABA4-05B75CE178CF},2"</d:ETag>
+                <d:Exists m:type="Edm.Boolean">true</d:Exists>
+                <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+                <d:Length m:type="Edm.Int64">547185406</d:Length>
+                <d:Level m:type="Edm.Byte">1</d:Level>
+                <d:LinkingUri m:null="true" />
+                <d:LinkingUrl></d:LinkingUrl>
+                <d:MajorVersion m:type="Edm.Int32">1</d:MajorVersion>
+                <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+                <d:Name>SKYPE_ Utiliser un POLYCOM CX - Formation - 01 - Découverte du téléphone CX.mp4</d:Name>
+                <d:ServerRelativeUrl>/portail/SiteAssets/Videos/SKYPE_ Utiliser un POLYCOM CX - Formation - 01 - Découverte du téléphone CX.mp4</d:ServerRelativeUrl>
+                <d:TimeCreated m:type="Edm.DateTime">2019-07-19T14:06:51Z</d:TimeCreated>
+                <d:TimeLastModified m:type="Edm.DateTime">2019-07-22T12:01:14Z</d:TimeLastModified>
+                <d:Title m:null="true" />
+                <d:UIVersion m:type="Edm.Int32">512</d:UIVersion>
+                <d:UIVersionLabel>1.0</d:UIVersionLabel>
+                <d:UniqueId m:type="Edm.Guid">53acfc99-bcb8-4596-aba4-05b75ce178cf</d:UniqueId>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://squinotix/portail/_api/Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')</id>
+        <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/Author" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/CheckedOutByUser" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/EffectiveInformationRightsManagementSettings" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/InformationRightsManagementSettings" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/ListItemAllFields" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/LockedByUser" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/ModifiedBy" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/VersionEvents" type="application/atom+xml;type=feed" title="VersionEvents" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/VersionEvents" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/STOCK_3.mp4')/Versions" />
+        <title />
+        <updated>2019-07-22T12:13:52Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CheckInComment></d:CheckInComment>
+                <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+                <d:ContentTag>{089C2191-D46C-4BB1-83F8-5DE08FD7F299},3,2</d:ContentTag>
+                <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+                <d:ETag>"{089C2191-D46C-4BB1-83F8-5DE08FD7F299},3"</d:ETag>
+                <d:Exists m:type="Edm.Boolean">true</d:Exists>
+                <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+                <d:Length m:type="Edm.Int64">37405518</d:Length>
+                <d:Level m:type="Edm.Byte">1</d:Level>
+                <d:LinkingUri m:null="true" />
+                <d:LinkingUrl></d:LinkingUrl>
+                <d:MajorVersion m:type="Edm.Int32">1</d:MajorVersion>
+                <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+                <d:Name>STOCK_3.mp4</d:Name>
+                <d:ServerRelativeUrl>/portail/SiteAssets/Videos/STOCK_3.mp4</d:ServerRelativeUrl>
+                <d:TimeCreated m:type="Edm.DateTime">2019-07-19T09:33:57Z</d:TimeCreated>
+                <d:TimeLastModified m:type="Edm.DateTime">2019-07-22T12:01:14Z</d:TimeLastModified>
+                <d:Title m:null="true" />
+                <d:UIVersion m:type="Edm.Int32">512</d:UIVersion>
+                <d:UIVersionLabel>1.0</d:UIVersionLabel>
+                <d:UniqueId m:type="Edm.Guid">089c2191-d46c-4bb1-83f8-5de08fd7f299</d:UniqueId>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://squinotix/portail/_api/Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')</id>
+        <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/Author" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/CheckedOutByUser" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/EffectiveInformationRightsManagementSettings" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/InformationRightsManagementSettings" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/ListItemAllFields" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/LockedByUser" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/ModifiedBy" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/VersionEvents" type="application/atom+xml;type=feed" title="VersionEvents" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/VersionEvents" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/GetFileByServerRelativePath(decodedurl='/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4')/Versions" />
+        <title />
+        <updated>2019-07-22T12:13:52Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CheckInComment></d:CheckInComment>
+                <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+                <d:ContentTag>{5C989530-528A-4686-9DED-691FEFB6AD4F},2,2</d:ContentTag>
+                <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+                <d:ETag>"{5C989530-528A-4686-9DED-691FEFB6AD4F},2"</d:ETag>
+                <d:Exists m:type="Edm.Boolean">true</d:Exists>
+                <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+                <d:Length m:type="Edm.Int64">530355151</d:Length>
+                <d:Level m:type="Edm.Byte">1</d:Level>
+                <d:LinkingUri m:null="true" />
+                <d:LinkingUrl></d:LinkingUrl>
+                <d:MajorVersion m:type="Edm.Int32">1</d:MajorVersion>
+                <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+                <d:Name>4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4</d:Name>
+                <d:ServerRelativeUrl>/portail/SiteAssets/Videos/4K_VIDEO_ultrahd_hdr_sony_4K_VIDEOS_demo_test_nature_relaxation_movie_for_4k_oled_tv_hd.mp4</d:ServerRelativeUrl>
+                <d:TimeCreated m:type="Edm.DateTime">2019-07-19T09:59:57Z</d:TimeCreated>
+                <d:TimeLastModified m:type="Edm.DateTime">2019-07-22T12:01:14Z</d:TimeLastModified>
+                <d:Title m:null="true" />
+                <d:UIVersion m:type="Edm.Int32">512</d:UIVersion>
+                <d:UIVersionLabel>1.0</d:UIVersionLabel>
+                <d:UniqueId m:type="Edm.Guid">5c989530-528a-4686-9ded-691fefb6ad4f</d:UniqueId>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
